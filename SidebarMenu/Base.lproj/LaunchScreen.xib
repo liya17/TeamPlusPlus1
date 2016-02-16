@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="9532" systemVersion="14F1605" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" launchScreen="YES" useTraitCollections="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="9530"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB">
+            <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="logo.jpg" translatesAutoresizingMaskIntoConstraints="NO" id="7id-Sx-v1r">
+                    <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                </imageView>
+            </subviews>
+            <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+            <constraints>
+                <constraint firstAttribute="bottom" secondItem="7id-Sx-v1r" secondAttribute="bottom" id="7Gb-fi-uod"/>
+                <constraint firstItem="7id-Sx-v1r" firstAttribute="centerY" secondItem="iN0-l3-epB" secondAttribute="centerY" id="JjX-TW-qd2"/>
+                <constraint firstItem="7id-Sx-v1r" firstAttribute="centerX" secondItem="iN0-l3-epB" secondAttribute="centerX" id="Pze-lU-IbV"/>
+                <constraint firstItem="7id-Sx-v1r" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" id="S86-ay-AGN"/>
+                <constraint firstAttribute="trailing" secondItem="7id-Sx-v1r" secondAttribute="trailing" id="lOc-EE-6Dp"/>
+                <constraint firstItem="7id-Sx-v1r" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" id="u45-Ct-VQp"/>
+            </constraints>
+            <nil key="simulatedStatusBarMetrics"/>
+            <simulatedScreenMetrics key="simulatedDestinationMetrics" type="retina47"/>
+            <point key="canvasLocation" x="547.5" y="454.5"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="logo.jpg" width="1080" height="1920"/>
+    </resources>
+</document>

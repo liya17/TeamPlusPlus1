@@ -1,0 +1,9 @@
+version: "Apple Swift version 2.1.1 (swiftlang-700.1.101.15 clang-700.1.81)"
+options: "f77f20ff1a8832fe26de51bfd63ce5e2"
+build_time: [508951146, 212210000]
+inputs:
+  "/Users/2018isabellar/Desktop/SidebarMenu/SidebarMenu/CameraViewController.swift": [508951106, 0]
+  "/Users/2018isabellar/Desktop/SidebarMenu/SidebarMenu/MenuController.swift": [476166895, 0]
+  "/Users/2018isabellar/Desktop/SidebarMenu/SidebarMenu/AppDelegate.swift": [476163291, 0]
+  "/Users/2018isabellar/Desktop/SidebarMenu/SidebarMenu/PhotoViewController.swift": [498475689, 0]
+  "/Users/2018isabellar/Desktop/SidebarMenu/SidebarMenu/MapViewController.swift": [498475689, 0]

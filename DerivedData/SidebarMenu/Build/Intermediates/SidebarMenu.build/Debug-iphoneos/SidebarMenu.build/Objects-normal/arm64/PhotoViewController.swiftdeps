@@ -1,0 +1,267 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "PhotoViewController"
+provides-nominal:
+- "C11SidebarMenu19PhotoViewController"
+provides-member:
+- ["C11SidebarMenu19PhotoViewController", ""]
+provides-dynamic-lookup:
+- "viewDidLoad"
+- "didReceiveMemoryWarning"
+- "menuButton"
+depends-top-level:
+- "UIViewController"
+- !private "StringLiteralType"
+- "UIBarButtonItem"
+- "PhotoViewController"
+- !private "!="
+depends-member:
+- !private ["PSs9AnyObject", "action"]
+- !private ["PSs9AnyObject", "addGestureRecognizer"]
+- ["PSs9AnyObject", "didReceiveMemoryWarning"]
+- ["PSs9AnyObject", "init"]
+- ["PSs9AnyObject", "menuButton"]
+- !private ["PSs9AnyObject", "panGestureRecognizer"]
+- !private ["PSs9AnyObject", "revealViewController"]
+- !private ["PSs9AnyObject", "target"]
+- !private ["PSs9AnyObject", "view"]
+- ["PSs9AnyObject", "viewDidLoad"]
+- ["PSs9AnyObject", ""]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["PSs25BooleanLiteralConvertible", "_getBuiltinLogicValue"]
+- !private ["PSs11BooleanType", "_getBuiltinLogicValue"]
+- !private ["PSs11CVarArgType", "action"]
+- !private ["PSs11CVarArgType", "addGestureRecognizer"]
+- ["PSs11CVarArgType", "didReceiveMemoryWarning"]
+- ["PSs11CVarArgType", "init"]
+- ["PSs11CVarArgType", "menuButton"]
+- !private ["PSs11CVarArgType", "panGestureRecognizer"]
+- !private ["PSs11CVarArgType", "revealViewController"]
+- !private ["PSs11CVarArgType", "target"]
+- !private ["PSs11CVarArgType", "view"]
+- ["PSs11CVarArgType", "viewDidLoad"]
+- ["PSs11CVarArgType", ""]
+- !private ["PSs23CustomStringConvertible", "_getBuiltinLogicValue"]
+- !private ["PSs23CustomStringConvertible", "action"]
+- !private ["PSs23CustomStringConvertible", "addGestureRecognizer"]
+- ["PSs23CustomStringConvertible", "didReceiveMemoryWarning"]
+- ["PSs23CustomStringConvertible", "init"]
+- ["PSs23CustomStringConvertible", "menuButton"]
+- !private ["PSs23CustomStringConvertible", "panGestureRecognizer"]
+- !private ["PSs23CustomStringConvertible", "revealViewController"]
+- !private ["PSs23CustomStringConvertible", "target"]
+- !private ["PSs23CustomStringConvertible", "view"]
+- ["PSs23CustomStringConvertible", "viewDidLoad"]
+- ["PSs23CustomStringConvertible", ""]
+- !private ["PSs9Equatable", "_getBuiltinLogicValue"]
+- !private ["PSs9Equatable", "action"]
+- !private ["PSs9Equatable", "addGestureRecognizer"]
+- ["PSs9Equatable", "didReceiveMemoryWarning"]
+- ["PSs9Equatable", "init"]
+- ["PSs9Equatable", "menuButton"]
+- !private ["PSs9Equatable", "panGestureRecognizer"]
+- !private ["PSs9Equatable", "revealViewController"]
+- !private ["PSs9Equatable", "target"]
+- !private ["PSs9Equatable", "view"]
+- ["PSs9Equatable", "viewDidLoad"]
+- ["PSs9Equatable", ""]
+- !private ["PSs8Hashable", "_getBuiltinLogicValue"]
+- !private ["PSs8Hashable", "action"]
+- !private ["PSs8Hashable", "addGestureRecognizer"]
+- ["PSs8Hashable", "didReceiveMemoryWarning"]
+- ["PSs8Hashable", "init"]
+- ["PSs8Hashable", "menuButton"]
+- !private ["PSs8Hashable", "panGestureRecognizer"]
+- !private ["PSs8Hashable", "revealViewController"]
+- !private ["PSs8Hashable", "target"]
+- !private ["PSs8Hashable", "view"]
+- ["PSs8Hashable", "viewDidLoad"]
+- ["PSs8Hashable", ""]
+- !private ["SQ", "deinit"]
+- !private ["PSo8NSCoding", "action"]
+- !private ["PSo8NSCoding", "addGestureRecognizer"]
+- ["PSo8NSCoding", "didReceiveMemoryWarning"]
+- ["PSo8NSCoding", "init"]
+- ["PSo8NSCoding", "menuButton"]
+- !private ["PSo8NSCoding", "panGestureRecognizer"]
+- !private ["PSo8NSCoding", "revealViewController"]
+- !private ["PSo8NSCoding", "target"]
+- !private ["PSo8NSCoding", "view"]
+- ["PSo8NSCoding", "viewDidLoad"]
+- ["PSo8NSCoding", ""]
+- ["PSo26NSExtensionRequestHandling", "didReceiveMemoryWarning"]
+- ["PSo26NSExtensionRequestHandling", "init"]
+- ["PSo26NSExtensionRequestHandling", "menuButton"]
+- !private ["PSo26NSExtensionRequestHandling", "panGestureRecognizer"]
+- !private ["PSo26NSExtensionRequestHandling", "revealViewController"]
+- !private ["PSo26NSExtensionRequestHandling", "view"]
+- ["PSo26NSExtensionRequestHandling", "viewDidLoad"]
+- ["PSo26NSExtensionRequestHandling", ""]
+- ["CSo8NSObject", "UIBarButtonItem"]
+- !private ["CSo8NSObject", "action"]
+- !private ["CSo8NSObject", "addGestureRecognizer"]
+- !private ["CSo8NSObject", "deinit"]
+- ["CSo8NSObject", "didReceiveMemoryWarning"]
+- ["CSo8NSObject", "init"]
+- ["CSo8NSObject", "menuButton"]
+- !private ["CSo8NSObject", "panGestureRecognizer"]
+- !private ["CSo8NSObject", "revealViewController"]
+- !private ["CSo8NSObject", "target"]
+- !private ["CSo8NSObject", "view"]
+- ["CSo8NSObject", "viewDidLoad"]
+- !private ["PSo16NSObjectProtocol", "action"]
+- !private ["PSo16NSObjectProtocol", "addGestureRecognizer"]
+- ["PSo16NSObjectProtocol", "didReceiveMemoryWarning"]
+- ["PSo16NSObjectProtocol", "init"]
+- ["PSo16NSObjectProtocol", "menuButton"]
+- !private ["PSo16NSObjectProtocol", "panGestureRecognizer"]
+- !private ["PSo16NSObjectProtocol", "revealViewController"]
+- !private ["PSo16NSObjectProtocol", "target"]
+- !private ["PSo16NSObjectProtocol", "view"]
+- ["PSo16NSObjectProtocol", "viewDidLoad"]
+- ["PSo16NSObjectProtocol", ""]
+- !private ["Sq", "deinit"]
+- ["C11SidebarMenu19PhotoViewController", "UIBarButtonItem"]
+- ["C11SidebarMenu19PhotoViewController", "deinit"]
+- ["C11SidebarMenu19PhotoViewController", "didReceiveMemoryWarning"]
+- ["C11SidebarMenu19PhotoViewController", "init"]
+- ["C11SidebarMenu19PhotoViewController", "menuButton"]
+- !private ["C11SidebarMenu19PhotoViewController", "revealViewController"]
+- !private ["C11SidebarMenu19PhotoViewController", "view"]
+- ["C11SidebarMenu19PhotoViewController", "viewDidLoad"]
+- !private ["CSo22SWRevealViewController", "deinit"]
+- !private ["CSo22SWRevealViewController", "panGestureRecognizer"]
+- !private ["V10ObjectiveC8Selector", "deinit"]
+- !private ["PSo29UIAccessibilityIdentification", "action"]
+- !private ["PSo29UIAccessibilityIdentification", "addGestureRecognizer"]
+- !private ["PSo29UIAccessibilityIdentification", "target"]
+- !private ["PSo12UIAppearance", "action"]
+- !private ["PSo12UIAppearance", "addGestureRecognizer"]
+- !private ["PSo12UIAppearance", "target"]
+- !private ["PSo21UIAppearanceContainer", "addGestureRecognizer"]
+- ["PSo21UIAppearanceContainer", "didReceiveMemoryWarning"]
+- ["PSo21UIAppearanceContainer", "init"]
+- ["PSo21UIAppearanceContainer", "menuButton"]
+- !private ["PSo21UIAppearanceContainer", "panGestureRecognizer"]
+- !private ["PSo21UIAppearanceContainer", "revealViewController"]
+- !private ["PSo21UIAppearanceContainer", "view"]
+- ["PSo21UIAppearanceContainer", "viewDidLoad"]
+- ["PSo21UIAppearanceContainer", ""]
+- !private ["CSo15UIBarButtonItem", "action"]
+- !private ["CSo15UIBarButtonItem", "target"]
+- !private ["CSo9UIBarItem", "action"]
+- !private ["CSo9UIBarItem", "target"]
+- ["PSo18UIContentContainer", "didReceiveMemoryWarning"]
+- ["PSo18UIContentContainer", "init"]
+- ["PSo18UIContentContainer", "menuButton"]
+- !private ["PSo18UIContentContainer", "panGestureRecognizer"]
+- !private ["PSo18UIContentContainer", "revealViewController"]
+- !private ["PSo18UIContentContainer", "view"]
+- ["PSo18UIContentContainer", "viewDidLoad"]
+- ["PSo18UIContentContainer", ""]
+- !private ["PSo17UICoordinateSpace", "addGestureRecognizer"]
+- !private ["PSo13UIDynamicItem", "addGestureRecognizer"]
+- !private ["PSo18UIFocusEnvironment", "addGestureRecognizer"]
+- ["PSo18UIFocusEnvironment", "didReceiveMemoryWarning"]
+- ["PSo18UIFocusEnvironment", "init"]
+- ["PSo18UIFocusEnvironment", "menuButton"]
+- !private ["PSo18UIFocusEnvironment", "panGestureRecognizer"]
+- !private ["PSo18UIFocusEnvironment", "revealViewController"]
+- !private ["PSo18UIFocusEnvironment", "view"]
+- ["PSo18UIFocusEnvironment", "viewDidLoad"]
+- ["PSo18UIFocusEnvironment", ""]
+- ["CSo11UIResponder", "UIBarButtonItem"]
+- !private ["CSo11UIResponder", "addGestureRecognizer"]
+- !private ["CSo11UIResponder", "deinit"]
+- ["CSo11UIResponder", "didReceiveMemoryWarning"]
+- ["CSo11UIResponder", "init"]
+- ["CSo11UIResponder", "menuButton"]
+- !private ["CSo11UIResponder", "panGestureRecognizer"]
+- !private ["CSo11UIResponder", "revealViewController"]
+- !private ["CSo11UIResponder", "view"]
+- ["CSo11UIResponder", "viewDidLoad"]
+- ["PSo16UIStateRestoring", "didReceiveMemoryWarning"]
+- ["PSo16UIStateRestoring", "init"]
+- ["PSo16UIStateRestoring", "menuButton"]
+- !private ["PSo16UIStateRestoring", "panGestureRecognizer"]
+- !private ["PSo16UIStateRestoring", "revealViewController"]
+- !private ["PSo16UIStateRestoring", "view"]
+- ["PSo16UIStateRestoring", "viewDidLoad"]
+- ["PSo16UIStateRestoring", ""]
+- !private ["PSo18UITraitEnvironment", "addGestureRecognizer"]
+- ["PSo18UITraitEnvironment", "didReceiveMemoryWarning"]
+- ["PSo18UITraitEnvironment", "init"]
+- ["PSo18UITraitEnvironment", "menuButton"]
+- !private ["PSo18UITraitEnvironment", "panGestureRecognizer"]
+- !private ["PSo18UITraitEnvironment", "revealViewController"]
+- !private ["PSo18UITraitEnvironment", "view"]
+- ["PSo18UITraitEnvironment", "viewDidLoad"]
+- ["PSo18UITraitEnvironment", ""]
+- !private ["CSo6UIView", "addGestureRecognizer"]
+- ["CSo16UIViewController", "UIBarButtonItem"]
+- !private ["CSo16UIViewController", "deinit"]
+- ["CSo16UIViewController", "didReceiveMemoryWarning"]
+- ["CSo16UIViewController", "init"]
+- ["CSo16UIViewController", "menuButton"]
+- !private ["CSo16UIViewController", "panGestureRecognizer"]
+- !private ["CSo16UIViewController", "revealViewController"]
+- !private ["CSo16UIViewController", "view"]
+- ["CSo16UIViewController", "viewDidLoad"]
+- ["CSo16UIViewController", ""]
+- !private ["PSs33_BuiltinBooleanLiteralConvertible", "_getBuiltinLogicValue"]
+- !private ["PSs21_ObjectiveCBridgeable", "_getBuiltinLogicValue"]
+- !private ["VSs26_OptionalNilComparisonType", "deinit"]
+- !private ["PSs12_Reflectable", "_getBuiltinLogicValue"]
+- !private ["PSs12_Reflectable", "addGestureRecognizer"]
+depends-nominal:
+- "PSs9AnyObject"
+- !private "Sb"
+- !private "PSs25BooleanLiteralConvertible"
+- !private "PSs11BooleanType"
+- "PSs11CVarArgType"
+- "PSs23CustomStringConvertible"
+- "PSs9Equatable"
+- "PSs8Hashable"
+- !private "SQ"
+- "PSo8NSCoding"
+- "PSo26NSExtensionRequestHandling"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- !private "Sq"
+- "C11SidebarMenu19PhotoViewController"
+- !private "CSo22SWRevealViewController"
+- !private "V10ObjectiveC8Selector"
+- !private "PSo29UIAccessibilityIdentification"
+- !private "PSo12UIAppearance"
+- "PSo21UIAppearanceContainer"
+- !private "CSo15UIBarButtonItem"
+- !private "CSo9UIBarItem"
+- "PSo18UIContentContainer"
+- !private "PSo17UICoordinateSpace"
+- !private "PSo13UIDynamicItem"
+- "PSo18UIFocusEnvironment"
+- "CSo11UIResponder"
+- "PSo16UIStateRestoring"
+- "PSo18UITraitEnvironment"
+- !private "CSo6UIView"
+- "CSo16UIViewController"
+- !private "PSs33_BuiltinBooleanLiteralConvertible"
+- !private "PSs21_ObjectiveCBridgeable"
+- !private "VSs26_OptionalNilComparisonType"
+- !private "PSs12_Reflectable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Swift.swiftmodule"
+- "/Users/2018isabellar/Desktop/SidebarMenu/SidebarMenu/SidebarMenu-Bridging-Header.h"
+- "/Users/2018isabellar/Desktop/SidebarMenu/SidebarMenu/SWRevealViewController.h"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/AVFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreMedia.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreAudio.swiftmodule"
+interface-hash: "aa0c3b937baabfd404a441919841cd08"

@@ -1,0 +1,78 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "CameraViewController"
+provides-nominal:
+- "C11SidebarMenu20CameraViewController"
+provides-member:
+- ["C11SidebarMenu20CameraViewController", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "UINavigationControllerDelegate"
+- !private "=="
+- !private "AVCaptureSessionPreset1920x1080"
+- !private "revealViewController"
+- !private "view"
+- "UIImagePickerControllerDelegate"
+- "UIViewController"
+- !private "AVCaptureDevice"
+- "AVCaptureSession"
+- "UIBarButtonItem"
+- !private "AVVideoCodecJPEG"
+- "Set"
+- !private "!="
+- "UIView"
+- "Bool"
+- "UIEvent"
+- "AVCaptureVideoPreviewLayer"
+- !private "AVMediaTypeVideo"
+- "AVCaptureStillImageOutput"
+- !private "AVLayerVideoGravityResizeAspect"
+- !private "AVCaptureVideoOrientation"
+- "UIImageView"
+- !private "AVCaptureDeviceInput"
+- "CameraViewController"
+depends-member:
+- !private ["C11SidebarMenu20CameraViewController", "AVCaptureDevice"]
+- !private ["C11SidebarMenu20CameraViewController", "AVCaptureDeviceInput"]
+- ["C11SidebarMenu20CameraViewController", "AVCaptureSession"]
+- !private ["C11SidebarMenu20CameraViewController", "AVCaptureSessionPreset1920x1080"]
+- ["C11SidebarMenu20CameraViewController", "AVCaptureStillImageOutput"]
+- !private ["C11SidebarMenu20CameraViewController", "AVCaptureVideoOrientation"]
+- ["C11SidebarMenu20CameraViewController", "AVCaptureVideoPreviewLayer"]
+- !private ["C11SidebarMenu20CameraViewController", "AVLayerVideoGravityResizeAspect"]
+- !private ["C11SidebarMenu20CameraViewController", "AVMediaTypeVideo"]
+- !private ["C11SidebarMenu20CameraViewController", "AVVideoCodecJPEG"]
+- ["C11SidebarMenu20CameraViewController", "Bool"]
+- ["C11SidebarMenu20CameraViewController", "Set"]
+- ["C11SidebarMenu20CameraViewController", "UIBarButtonItem"]
+- ["C11SidebarMenu20CameraViewController", "UIEvent"]
+- ["C11SidebarMenu20CameraViewController", "UIImageView"]
+- ["C11SidebarMenu20CameraViewController", "UIView"]
+- !private ["C11SidebarMenu20CameraViewController", "cameraView"]
+- !private ["C11SidebarMenu20CameraViewController", "captureSession"]
+- ["C11SidebarMenu20CameraViewController", "deinit"]
+- ["C11SidebarMenu20CameraViewController", "didPressTakeAnother"]
+- ["C11SidebarMenu20CameraViewController", "didPressTakePhoto"]
+- ["C11SidebarMenu20CameraViewController", "didReceiveMemoryWarning"]
+- !private ["C11SidebarMenu20CameraViewController", "didTakePhoto"]
+- ["C11SidebarMenu20CameraViewController", "init"]
+- !private ["C11SidebarMenu20CameraViewController", "menuButton"]
+- !private ["C11SidebarMenu20CameraViewController", "previewLayer"]
+- !private ["C11SidebarMenu20CameraViewController", "revealViewController"]
+- !private ["C11SidebarMenu20CameraViewController", "stillImageOutput"]
+- !private ["C11SidebarMenu20CameraViewController", "tempImageView"]
+- !private ["C11SidebarMenu20CameraViewController", "view"]
+- ["C11SidebarMenu20CameraViewController", "viewDidLoad"]
+depends-nominal:
+- "C11SidebarMenu20CameraViewController"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Swift.swiftmodule"
+- "/Users/2018isabellar/Desktop/TeamPlusPlus1/SidebarMenu/SidebarMenu-Bridging-Header.h"
+- "/Users/2018isabellar/Desktop/TeamPlusPlus1/SidebarMenu/SWRevealViewController.h"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/AVFoundation.swiftmodule"
+interface-hash: "3d6d9b3ed88bd7d4624c031174525c6f"

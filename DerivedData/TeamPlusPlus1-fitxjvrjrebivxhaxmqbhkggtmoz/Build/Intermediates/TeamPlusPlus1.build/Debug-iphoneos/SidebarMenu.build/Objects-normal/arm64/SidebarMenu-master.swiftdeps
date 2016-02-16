@@ -1,0 +1,9 @@
+version: "Apple Swift version 2.1.1 (swiftlang-700.1.101.15 clang-700.1.81)"
+options: "df6b0bb8e438997d3bfad16eec5c820a"
+build_time: [508951935, 804964000]
+inputs:
+  "/Users/2018isabellar/Desktop/TeamPlusPlus1/SidebarMenu/MenuController.swift": !dirty [476166895, 0]
+  "/Users/2018isabellar/Desktop/TeamPlusPlus1/SidebarMenu/MapViewController.swift": !dirty [498475689, 0]
+  "/Users/2018isabellar/Desktop/TeamPlusPlus1/SidebarMenu/CameraViewController.swift": !dirty [508951106, 0]
+  "/Users/2018isabellar/Desktop/TeamPlusPlus1/SidebarMenu/AppDelegate.swift": !dirty [476163291, 0]
+  "/Users/2018isabellar/Desktop/TeamPlusPlus1/SidebarMenu/PhotoViewController.swift": !dirty [498475689, 0]

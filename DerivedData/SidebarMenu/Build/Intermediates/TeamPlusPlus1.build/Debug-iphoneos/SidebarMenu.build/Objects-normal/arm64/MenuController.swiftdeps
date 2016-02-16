@@ -1,0 +1,29 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "MenuController"
+provides-nominal:
+- "C11SidebarMenu14MenuController"
+provides-member:
+- ["C11SidebarMenu14MenuController", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "MenuController"
+- "UITableViewController"
+depends-member:
+- ["C11SidebarMenu14MenuController", "deinit"]
+- ["C11SidebarMenu14MenuController", "didReceiveMemoryWarning"]
+- ["C11SidebarMenu14MenuController", "init"]
+- ["C11SidebarMenu14MenuController", "viewDidLoad"]
+depends-nominal:
+- "C11SidebarMenu14MenuController"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Swift.swiftmodule"
+- "/Users/2018isabellar/Desktop/TeamPlusPlus1/SidebarMenu/SidebarMenu-Bridging-Header.h"
+- "/Users/2018isabellar/Desktop/TeamPlusPlus1/SidebarMenu/SWRevealViewController.h"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/AVFoundation.swiftmodule"
+interface-hash: "002f8db17b177ec2cc58fbcacbb1561f"

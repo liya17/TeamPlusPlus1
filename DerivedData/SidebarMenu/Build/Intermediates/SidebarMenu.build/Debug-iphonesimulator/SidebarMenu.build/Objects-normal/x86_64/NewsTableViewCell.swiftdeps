@@ -1,0 +1,236 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "NewsTableViewCell"
+provides-nominal:
+- "C11SidebarMenu17NewsTableViewCell"
+provides-member:
+- ["C11SidebarMenu17NewsTableViewCell", ""]
+provides-dynamic-lookup:
+- "awakeFromNib"
+- "postTitleLabel"
+- "postImageView"
+- "setSelected"
+- "authorLabel"
+- "authorImageView"
+depends-top-level:
+- "NewsTableViewCell"
+- "Bool"
+- "UIImageView"
+- "UILabel"
+- "UITableViewCell"
+depends-member:
+- ["PSs9AnyObject", "authorImageView"]
+- ["PSs9AnyObject", "authorLabel"]
+- ["PSs9AnyObject", "awakeFromNib"]
+- ["PSs9AnyObject", "init"]
+- ["PSs9AnyObject", "postImageView"]
+- ["PSs9AnyObject", "postTitleLabel"]
+- ["PSs9AnyObject", "setSelected"]
+- ["PSs9AnyObject", ""]
+- ["PSs11CVarArgType", "authorImageView"]
+- ["PSs11CVarArgType", "authorLabel"]
+- ["PSs11CVarArgType", "awakeFromNib"]
+- ["PSs11CVarArgType", "init"]
+- ["PSs11CVarArgType", "postImageView"]
+- ["PSs11CVarArgType", "postTitleLabel"]
+- ["PSs11CVarArgType", "setSelected"]
+- ["PSs11CVarArgType", ""]
+- ["PSs23CustomStringConvertible", "authorImageView"]
+- ["PSs23CustomStringConvertible", "authorLabel"]
+- ["PSs23CustomStringConvertible", "awakeFromNib"]
+- ["PSs23CustomStringConvertible", "init"]
+- ["PSs23CustomStringConvertible", "postImageView"]
+- ["PSs23CustomStringConvertible", "postTitleLabel"]
+- ["PSs23CustomStringConvertible", "setSelected"]
+- ["PSs23CustomStringConvertible", ""]
+- ["PSs9Equatable", "authorImageView"]
+- ["PSs9Equatable", "authorLabel"]
+- ["PSs9Equatable", "awakeFromNib"]
+- ["PSs9Equatable", "init"]
+- ["PSs9Equatable", "postImageView"]
+- ["PSs9Equatable", "postTitleLabel"]
+- ["PSs9Equatable", "setSelected"]
+- ["PSs9Equatable", ""]
+- ["PSs8Hashable", "authorImageView"]
+- ["PSs8Hashable", "authorLabel"]
+- ["PSs8Hashable", "awakeFromNib"]
+- ["PSs8Hashable", "init"]
+- ["PSs8Hashable", "postImageView"]
+- ["PSs8Hashable", "postTitleLabel"]
+- ["PSs8Hashable", "setSelected"]
+- ["PSs8Hashable", ""]
+- ["PSo8NSCoding", "authorImageView"]
+- ["PSo8NSCoding", "authorLabel"]
+- ["PSo8NSCoding", "awakeFromNib"]
+- ["PSo8NSCoding", "init"]
+- ["PSo8NSCoding", "postImageView"]
+- ["PSo8NSCoding", "postTitleLabel"]
+- ["PSo8NSCoding", "setSelected"]
+- ["PSo8NSCoding", ""]
+- ["CSo8NSObject", "Bool"]
+- ["CSo8NSObject", "UIImageView"]
+- ["CSo8NSObject", "UILabel"]
+- ["CSo8NSObject", "authorImageView"]
+- ["CSo8NSObject", "authorLabel"]
+- ["CSo8NSObject", "awakeFromNib"]
+- ["CSo8NSObject", "init"]
+- ["CSo8NSObject", "postImageView"]
+- ["CSo8NSObject", "postTitleLabel"]
+- ["CSo8NSObject", "setSelected"]
+- ["PSo16NSObjectProtocol", "authorImageView"]
+- ["PSo16NSObjectProtocol", "authorLabel"]
+- ["PSo16NSObjectProtocol", "awakeFromNib"]
+- ["PSo16NSObjectProtocol", "init"]
+- ["PSo16NSObjectProtocol", "postImageView"]
+- ["PSo16NSObjectProtocol", "postTitleLabel"]
+- ["PSo16NSObjectProtocol", "setSelected"]
+- ["PSo16NSObjectProtocol", ""]
+- ["C11SidebarMenu17NewsTableViewCell", "Bool"]
+- ["C11SidebarMenu17NewsTableViewCell", "UIImageView"]
+- ["C11SidebarMenu17NewsTableViewCell", "UILabel"]
+- ["C11SidebarMenu17NewsTableViewCell", "authorImageView"]
+- ["C11SidebarMenu17NewsTableViewCell", "authorLabel"]
+- ["C11SidebarMenu17NewsTableViewCell", "awakeFromNib"]
+- ["C11SidebarMenu17NewsTableViewCell", "deinit"]
+- ["C11SidebarMenu17NewsTableViewCell", "init"]
+- ["C11SidebarMenu17NewsTableViewCell", "postImageView"]
+- ["C11SidebarMenu17NewsTableViewCell", "postTitleLabel"]
+- ["C11SidebarMenu17NewsTableViewCell", "setSelected"]
+- ["PSo29UIAccessibilityIdentification", "authorImageView"]
+- ["PSo29UIAccessibilityIdentification", "authorLabel"]
+- ["PSo29UIAccessibilityIdentification", "awakeFromNib"]
+- ["PSo29UIAccessibilityIdentification", "init"]
+- ["PSo29UIAccessibilityIdentification", "postImageView"]
+- ["PSo29UIAccessibilityIdentification", "postTitleLabel"]
+- ["PSo29UIAccessibilityIdentification", "setSelected"]
+- ["PSo29UIAccessibilityIdentification", ""]
+- ["PSo12UIAppearance", "authorImageView"]
+- ["PSo12UIAppearance", "authorLabel"]
+- ["PSo12UIAppearance", "awakeFromNib"]
+- ["PSo12UIAppearance", "init"]
+- ["PSo12UIAppearance", "postImageView"]
+- ["PSo12UIAppearance", "postTitleLabel"]
+- ["PSo12UIAppearance", "setSelected"]
+- ["PSo12UIAppearance", ""]
+- ["PSo21UIAppearanceContainer", "authorImageView"]
+- ["PSo21UIAppearanceContainer", "authorLabel"]
+- ["PSo21UIAppearanceContainer", "awakeFromNib"]
+- ["PSo21UIAppearanceContainer", "init"]
+- ["PSo21UIAppearanceContainer", "postImageView"]
+- ["PSo21UIAppearanceContainer", "postTitleLabel"]
+- ["PSo21UIAppearanceContainer", "setSelected"]
+- ["PSo21UIAppearanceContainer", ""]
+- ["PSo17UICoordinateSpace", "authorImageView"]
+- ["PSo17UICoordinateSpace", "authorLabel"]
+- ["PSo17UICoordinateSpace", "awakeFromNib"]
+- ["PSo17UICoordinateSpace", "init"]
+- ["PSo17UICoordinateSpace", "postImageView"]
+- ["PSo17UICoordinateSpace", "postTitleLabel"]
+- ["PSo17UICoordinateSpace", "setSelected"]
+- ["PSo17UICoordinateSpace", ""]
+- ["PSo13UIDynamicItem", "authorImageView"]
+- ["PSo13UIDynamicItem", "authorLabel"]
+- ["PSo13UIDynamicItem", "awakeFromNib"]
+- ["PSo13UIDynamicItem", "init"]
+- ["PSo13UIDynamicItem", "postImageView"]
+- ["PSo13UIDynamicItem", "postTitleLabel"]
+- ["PSo13UIDynamicItem", "setSelected"]
+- ["PSo13UIDynamicItem", ""]
+- ["PSo18UIFocusEnvironment", "authorImageView"]
+- ["PSo18UIFocusEnvironment", "authorLabel"]
+- ["PSo18UIFocusEnvironment", "awakeFromNib"]
+- ["PSo18UIFocusEnvironment", "init"]
+- ["PSo18UIFocusEnvironment", "postImageView"]
+- ["PSo18UIFocusEnvironment", "postTitleLabel"]
+- ["PSo18UIFocusEnvironment", "setSelected"]
+- ["PSo18UIFocusEnvironment", ""]
+- ["PSo27UIGestureRecognizerDelegate", "authorImageView"]
+- ["PSo27UIGestureRecognizerDelegate", "authorLabel"]
+- ["PSo27UIGestureRecognizerDelegate", "awakeFromNib"]
+- ["PSo27UIGestureRecognizerDelegate", "init"]
+- ["PSo27UIGestureRecognizerDelegate", "postImageView"]
+- ["PSo27UIGestureRecognizerDelegate", "postTitleLabel"]
+- ["PSo27UIGestureRecognizerDelegate", "setSelected"]
+- ["PSo27UIGestureRecognizerDelegate", ""]
+- ["CSo11UIResponder", "Bool"]
+- ["CSo11UIResponder", "UIImageView"]
+- ["CSo11UIResponder", "UILabel"]
+- ["CSo11UIResponder", "authorImageView"]
+- ["CSo11UIResponder", "authorLabel"]
+- ["CSo11UIResponder", "awakeFromNib"]
+- ["CSo11UIResponder", "init"]
+- ["CSo11UIResponder", "postImageView"]
+- ["CSo11UIResponder", "postTitleLabel"]
+- ["CSo11UIResponder", "setSelected"]
+- ["CSo15UITableViewCell", "Bool"]
+- ["CSo15UITableViewCell", "UIImageView"]
+- ["CSo15UITableViewCell", "UILabel"]
+- ["CSo15UITableViewCell", "authorImageView"]
+- ["CSo15UITableViewCell", "authorLabel"]
+- ["CSo15UITableViewCell", "awakeFromNib"]
+- ["CSo15UITableViewCell", "init"]
+- ["CSo15UITableViewCell", "postImageView"]
+- ["CSo15UITableViewCell", "postTitleLabel"]
+- ["CSo15UITableViewCell", "setSelected"]
+- ["CSo15UITableViewCell", ""]
+- ["PSo18UITraitEnvironment", "authorImageView"]
+- ["PSo18UITraitEnvironment", "authorLabel"]
+- ["PSo18UITraitEnvironment", "awakeFromNib"]
+- ["PSo18UITraitEnvironment", "init"]
+- ["PSo18UITraitEnvironment", "postImageView"]
+- ["PSo18UITraitEnvironment", "postTitleLabel"]
+- ["PSo18UITraitEnvironment", "setSelected"]
+- ["PSo18UITraitEnvironment", ""]
+- ["CSo6UIView", "Bool"]
+- ["CSo6UIView", "UIImageView"]
+- ["CSo6UIView", "UILabel"]
+- ["CSo6UIView", "authorImageView"]
+- ["CSo6UIView", "authorLabel"]
+- ["CSo6UIView", "awakeFromNib"]
+- ["CSo6UIView", "init"]
+- ["CSo6UIView", "postImageView"]
+- ["CSo6UIView", "postTitleLabel"]
+- ["CSo6UIView", "setSelected"]
+- ["PSs12_Reflectable", "authorImageView"]
+- ["PSs12_Reflectable", "authorLabel"]
+- ["PSs12_Reflectable", "awakeFromNib"]
+- ["PSs12_Reflectable", "init"]
+- ["PSs12_Reflectable", "postImageView"]
+- ["PSs12_Reflectable", "postTitleLabel"]
+- ["PSs12_Reflectable", "setSelected"]
+- ["PSs12_Reflectable", ""]
+depends-nominal:
+- "PSs9AnyObject"
+- "PSs11CVarArgType"
+- "PSs23CustomStringConvertible"
+- "PSs9Equatable"
+- "PSs8Hashable"
+- "PSo8NSCoding"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- "C11SidebarMenu17NewsTableViewCell"
+- "PSo29UIAccessibilityIdentification"
+- "PSo12UIAppearance"
+- "PSo21UIAppearanceContainer"
+- "PSo17UICoordinateSpace"
+- "PSo13UIDynamicItem"
+- "PSo18UIFocusEnvironment"
+- "PSo27UIGestureRecognizerDelegate"
+- "CSo11UIResponder"
+- "CSo15UITableViewCell"
+- "PSo18UITraitEnvironment"
+- "CSo6UIView"
+- "PSs12_Reflectable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Users/2018isabellar/Desktop/SidebarMenu/SidebarMenu/SidebarMenu-Bridging-Header.h"
+- "/Users/2018isabellar/Desktop/SidebarMenu/SidebarMenu/SWRevealViewController.h"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+interface-hash: "3068cfda20c128478b869602430e4a87"
